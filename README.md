@@ -11,6 +11,6 @@
          - **putCourse(CourseNumber, String)**: add a new course to the forest
          - **putRequisite(CourseNumber, CourseNumber, CourseRequisite)**: set an existing course the requisite of another one.
  2.  **Fractal Patterns**:  
-       This is my Lab6 coursework from EECS 2030 F 2017 taught by Matthew Kyan which you can check out [here](https://www.eecs.yorku.ca/course_archive/2017-18/F/2030b/labs/lab6/EECS2030Lab6_F2017.html"EECS2030 Lab6") which is a visual representation of fractal patterns done recursively. If you want to get a grip of how complex problems can be elegantly solved using recursive approach, check this one out.   
+       This is my Lab6 coursework from EECS 2030 F 2017 taught by Matthew Kyan which you can check out [here](https://www.eecs.yorku.ca/course_archive/2017-18/F/2030b/labs/lab6/EECS2030Lab6_F2017.html "EECS2030 Lab6") which is a visual representation of fractal patterns done recursively. If you want to get a grip of how complex problems can be elegantly solved using recursive approach, check this one out.   
        Here is the result of running **recursiveTasks.java**:  
         ![fractal pattern example](https://github.com/arianseyedi/JavaProjects/blob/master/FractalPatterns/fp.png "Fractal Patterns Example")
